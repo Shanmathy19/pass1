@@ -6,37 +6,39 @@
 .header{
     background-color: #4a06ac;
     color: #ecf3f3;
-    font-size: 20px;
-    padding: 8px;
+    font-size: 10px;
+    height: 30px;
+}
+.header p{
+    margin-top: 15px;
 }
 .fa-bell, .fa-bars{
-    font-size: 30px;
-}
-.office{
-    margin-top: -5px;
+    font-size: 10px;
 }
 .box{
     color: #ecf3f3;
     background-color: #4c44e2;
     border-radius: 15px;
-    height: 130px;
+    height: 90px;
+}
+.box i{
+    margin-top: -10px;
 }
 .box p{
     font-weight: 500;
+    font-size: 10px;
+}
+.box .office{
+    margin-top: -13px;
 }
 .details{
     border: 0 solid gray;
     border-radius: 8px;
     box-shadow: 0px 0px 8px gray;
-    line-height: 4px;
-}
-.details p{
+    line-height: 2px;
     font-size: 10px;
 }
 .footer img{
     height: 60px;
     width: 200px;
 }
-/* .footer{
-    margin-left: 20%;
-} */
