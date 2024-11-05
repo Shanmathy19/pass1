@@ -12,14 +12,14 @@
 .header p{
     margin-top: 15px;
 }
-.fa-bell, .fa-bars{
-    font-size: 20px;
-}
 .header .fa-bars{
     margin-left: 13px;
 }
 .header .fa-bell{
     margin-right: 13px;
+}
+.fa-bell, .fa-bars{
+    font-size: 20px;
 }
 .box{
     color: #ecf3f3;
@@ -47,7 +47,7 @@
     margin-top: -10px;
 }
 .footer img{
-    height: 80px;
+    height: 60px;
     width: 200px;
 }
 .name{
