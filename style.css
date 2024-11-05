@@ -15,6 +15,12 @@
 .fa-bell, .fa-bars{
     font-size: 20px;
 }
+.header .fa-bars{
+    margin-left: 13px;
+}
+.header .fa-bell{
+    margin-right: 13px;
+}
 .box{
     color: #ecf3f3;
     background-color: #4c44e2;
