@@ -6,7 +6,7 @@
 .header{
     background-color: #4a06ac;
     color: #ecf3f3;
-    font-size: 20px;
+    font-size: 18px;
     height: 45px;
 }
 .header p{
@@ -35,11 +35,15 @@
     border: 0 solid gray;
     border-radius: 7px;
     box-shadow: 0px 0px 8px gray;
-    line-height: 9px;
+    line-height:11px;
     font-size: 15px;
     height: 200px;
+    margin-top: -10px;
 }
 .footer img{
     height: 60px;
     width: 200px;
+}
+.name{
+    font-size: 13px;
 }
