@@ -9,6 +9,9 @@
     font-size: 18px;
     height: 45px;
 }
+.gray{
+    color: gray;
+}
 .header p{
     margin-top: 15px;
 }
