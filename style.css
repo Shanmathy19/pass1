@@ -43,10 +43,12 @@
     box-shadow: 0px 0px 8px gray;
     line-height:11px;
     font-size: 15px;
-    height: 200px;
+    height: 290px;
     margin-top: -10px;
+    color: rgb(78, 78, 78);
 }
 .footer img{
     height: 80px;
     width: 200px;
 }
+
